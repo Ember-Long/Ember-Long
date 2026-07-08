@@ -16,7 +16,7 @@ My previous research focused on learning-based visual perception under challengi
 
 I am interested in developing learning-based methods that enable intelligent systems to perceive and interact with complex real-world environments. My long-term goal is to bridge visual perception and robot learning to build more robust and generalizable embodied agents.
 
-## Publications
+## Selected Publications
 
 - **Boosting HDR Image Reconstruction via Semantic Knowledge Transfer**  
   *IEEE Transactions on Image Processing (TIP), 2026* — Second Author
